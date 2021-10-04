@@ -1,6 +1,6 @@
 ## Bocheng Cui
 
-MS student in UNH, interested in Distributed Systems, Cloud Computing and Distributed ML
+MS student in UNH, interested in Distributed Systems, Cloud Computing and Distributed Machine Learning.
 
 ### Markdown
 
