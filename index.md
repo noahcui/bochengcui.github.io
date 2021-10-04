@@ -1,7 +1,5 @@
-<h2>Bocheng Cui(崔博程)</h2>
 <h3>About me</h3>
-MS student in UNH, interested in Distributed Systems, Cloud Computing and
-Distributed Machine Learning.
+MS student in UNH.
 <h3>Experience</h3>
 
 <ul>
