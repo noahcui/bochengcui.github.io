@@ -20,14 +20,16 @@ Computer Science Grader\n
 • Grade for 2 computer science courses.\n
 
 Qingdao, China Team leader June 2015 - May 2017\n
- Intel China, Ltd.\n
+Intel China, Ltd.\n
 • Lead a team to participat in the Excellent Student Program. Learned how to lead a team.\n
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
