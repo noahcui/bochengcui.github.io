@@ -3,7 +3,7 @@
 MS student in UNH, interested in Distributed Systems, Cloud Computing and Distributed Machine Learning.
 
 ### Experience
- 
+
 Durham, New Hampshire September 2021- Present\n
 University of New Hampshire College of Engineering and Physical Sciences Teaching Assistant.\n
 • TA for 1 ungraduated-level and 1 graduate-level CS courses. (System area)\n
@@ -21,7 +21,7 @@ Computer Science Grader\n
 Qingdao, China Team leader June 2015 - May 2017\n
  Intel China, Ltd.\n
 • Lead a team to participat in the Excellent Student Program. Learned how to lead a team.\n
- 
+
 ```markdown
 Syntax highlighted code block
 
