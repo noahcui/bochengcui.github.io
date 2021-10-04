@@ -4,11 +4,11 @@ MS student in UNH, interested in Distributed Systems, Cloud Computing and Distri
 
 ### Experience
 
-University of New Hampshire College of Engineering and Physical Sciences, New Hampshire September 2021- Present
+University of New Hampshire College of Engineering and Physical Sciences, September 2021- Present
 Teaching Assistant.
 • TA for 1 ungraduated-level and 1 graduate-level CS courses. (System area)
 
-University of New Hampshire College of Engineering and Physical Sciences, New Hampshire September 2021- Present
+University of New Hampshire College of Engineering and Physical Sciences, September 2021- Present
 Programming Assistance Center Consultant.
 • Programming Consultant, helping students with programming.
 
