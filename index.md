@@ -3,7 +3,7 @@
 MS student in UNH, interested in Distributed Systems, Cloud Computing and Distributed Machine Learning.
 
 ### Experience
-```markdown
+ 
 Durham, New Hampshire September 2021- Present\n
 University of New Hampshire College of Engineering and Physical Sciences Teaching Assistant.\n
 • TA for 1 ungraduated-level and 1 graduate-level CS courses. (System area)\n
