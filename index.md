@@ -4,13 +4,13 @@ MS student in UNH, interested in Distributed Systems, Cloud Computing and Distri
 
 ### Experience
 
-<body background-color = #4B0082;>
-<ol>
+<body>
+<ul>
 <li> 09/2021 - present: TA at UNH CS department.</li>
 <li> 09/2021 - present: UNH Programming Assistance Center Consultant</li>
 <li> 02/2021 - 06/2021: Grader at UNH CS department</li>
 <li> 06/2015 - 05/2017: Intern at Intel China Ltd.</li>
-</ol>
+</ul>
 </body>
 ```markdown
 Syntax highlighted code block
