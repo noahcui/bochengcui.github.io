@@ -1,5 +1,6 @@
 <h3>About me</h3>
-MS student in UNH. Graduating at 21 fall.
+<img alt="" align="right" src="/Pic/img/Ak.jpg"/> 
+<p>MS student in UNH. Graduating at 21 fall.</p>
 <h3>Experience</h3>
 
 <ul>
