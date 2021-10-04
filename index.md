@@ -1,5 +1,5 @@
 <h3>About me</h3>
-<img alt="" align="right" src="/aboutme/img/AK.png" height="20%" width="20%"/> 
+<img alt="" align="right" src="[/aboutme/img/AK.png](https://github.com/noahcui/info/blob/gh-pages/aboutme/img/AK.png)" height="20%" width="20%"/> 
 <p>MS student in UNH. Graduating at 21 fall.</p>
 <h3>Experience</h3>
 
