@@ -4,25 +4,14 @@ MS student in UNH, interested in Distributed Systems, Cloud Computing and Distri
 
 ### Experience
 
-- University of New Hampshire College of Engineering and Physical Sciences,
-September 2021- Present.
-  - Teaching Assistant.
-    - TA for 1 ungraduated-level and 1 graduate-level CS courses. (System area)
-
-- University of New Hampshire College of Engineering and Physical Sciences,
-September 2021- Present.
-  - Programming Assistance Center Consultant. 
-    - Programming Consultant, helping students with programming.
-
-University of New Hampshire College of Engineering and Physical Sciences,    February 2021- June 2021
-    Computer Science Grader 
-        Grade for 2 computer science courses.
-
-Intel China, Ltd.,                                    
-J une 2015 - May 2017
-    Team leader
-        Lead a team to participat in the Excellent Student Program.
-
+<body background-color = #4B0082;>
+<ol>
+<li> 09/2021 - present: TA at UNH CS department.</li>
+<li> 09/2021 - present: UNH Programming Assistance Center Consultant</li>
+<li> 02/2021 - 06/2021: Grader at UNH CS department</li>
+<li> 06/2015 - 05/2017: Intern at Intel China Ltd.</li>
+</ol>
+</body>
 ```markdown
 Syntax highlighted code block
 
@@ -32,6 +21,7 @@ Syntax highlighted code block
 
 ### Header 3
 
+```
 - Bulleted
 - List
 
@@ -41,7 +31,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -52,3 +41,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
