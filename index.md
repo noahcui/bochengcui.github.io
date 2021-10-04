@@ -4,24 +4,20 @@ MS student in UNH, interested in Distributed Systems, Cloud Computing and Distri
 
 ### Experience
 
-Durham, New Hampshire September 2021- Present
+University of New Hampshire College of Engineering and Physical Sciences, New Hampshire September 2021- Present
+Teaching Assistant.
+• TA for 1 ungraduated-level and 1 graduate-level CS courses. (System area)
 
-University of New Hampshire College of Engineering and Physical Sciences Teaching Assistant.\n
-• TA for 1 ungraduated-level and 1 graduate-level CS courses. (System area)\n
+University of New Hampshire College of Engineering and Physical Sciences, New Hampshire September 2021- Present
+Programming Assistance Center Consultant.
+• Programming Consultant, helping students with programming.
 
-Durham, New Hampshire September 2021- Present\n
-University of New Hampshire College of Engineering and Physical Sciences\n
-Programming Assistance Center Consultant.\n
-• Programming Consultant, helping students with programming.\n
+University of New Hampshire College of Engineering and Physical Sciences, February 2021- June 2021
+Computer Science Grader
+• Grade for 2 computer science courses.
 
-Durham, New Hampshire February 2021- June 2021\n
-University of New Hampshire College of Engineering and Physical Sciences\n
-Computer Science Grader\n
-• Grade for 2 computer science courses.\n
-
-Qingdao, China Team leader June 2015 - May 2017\n
-Intel China, Ltd.\n
-• Lead a team to participat in the Excellent Student Program. Learned how to lead a team.\n
+Intel China, Ltd., China Team leader June 2015 - May 2017
+• Lead a team to participat in the Excellent Student Program. Learned how to lead a team.
 
 ```markdown
 Syntax highlighted code block
