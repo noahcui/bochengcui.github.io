@@ -3,8 +3,8 @@ MS student in UNH.
 <h3>Experience</h3>
 
 <ul>
-  <li>09/2021 - present: TA at UNH CS department.</li>
-  <li>09/2021 - present: UNH Programming Assistance Center Consultant</li>
+  <li>09/2021 - Present: TA at UNH CS department.</li>
+  <li>09/2021 - Present: UNH Programming Assistance Center Consultant</li>
   <li>02/2021 - 06/2021: Grader at UNH CS department</li>
   <li>06/2015 - 05/2017: Intern at Intel China Ltd.</li>
 </ul>
