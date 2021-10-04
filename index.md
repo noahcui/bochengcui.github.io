@@ -1,5 +1,5 @@
 <h3>About me</h3>
-<img alt="" align="right" src="/Pic/img/Ak.jpg"/> 
+<img alt="" align="right" src="../aboutme/img/AK.jpg"/> 
 <p>MS student in UNH. Graduating at 21 fall.</p>
 <h3>Experience</h3>
 
