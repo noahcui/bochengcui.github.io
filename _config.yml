@@ -4,6 +4,7 @@ description:
   [
     "Interested in Distributed Systems, Cloud Computing and Distributed Machine Learning.",
   ]
+show_downloads: [true]
 github:
   zip_url: github.com/noahcui
   another_url: twitter.com/noahcui
