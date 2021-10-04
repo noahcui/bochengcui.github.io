@@ -1,5 +1,5 @@
 <h3>About me</h3>
-MS student in UNH.
+MS student in UNH. Graduating at 21 fall.
 <h3>Experience</h3>
 
 <ul>
