@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-title: [Bocheng Cui]
+# title: [Bocheng Cui]
+show_title: [false]
 # description:
 #   [
 #     "Interested in Distributed Systems, Cloud Computing and Distributed Machine Learning.",
