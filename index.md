@@ -12,8 +12,14 @@
 
 <body>
   <div id="aboutme"></div>
+  <br>
+  <br>
   <div id="projects"></div>
+  <br>
+  <br>
   <div id="experience"></div>
+  <br>
+  <br>
   <div id="education"></div>
 
 </body>
