@@ -1,12 +1,7 @@
 <style>
-  p link {
-    /* float: "right"; */
-    text-align: "right";
-  }
 
 </style>
 <h1>Bocheng Cui</h1>
-<div align="right"><a href="index-plaintext.html">[link to plain-text]</a></div>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
