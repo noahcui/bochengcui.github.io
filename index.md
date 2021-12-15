@@ -20,6 +20,10 @@
   <!-- <div id="news"></div>
   <br>
   <br> -->
+  <!-- immporting Talks -->
+  <!-- <div id="talks"></div>
+  <br>
+  <br> -->
   <!-- importing projects -->
   <div id="projects"></div>
   <br>
