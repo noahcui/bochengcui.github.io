@@ -4,6 +4,7 @@
   $(function () {
     $('#aboutme').load('aboutme/aboutme.html');
     $('#news').load('news/news.html');
+    $('#talks').load('talks/alks.html');
     $('#projects').load('projects/projects.html');
     $('#experience').load('experience/experience.html');
     $('#education').load('education/education.html');
@@ -21,9 +22,9 @@
   <br>
   <br> -->
   <!-- immporting Talks -->
-  <!-- <div id="talks"></div>
+  <div id="talks"></div>
   <br>
-  <br> -->
+  <br>
   <!-- importing projects -->
   <div id="projects"></div>
   <br>
