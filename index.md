@@ -1,3 +1,16 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4R0F3F4K3P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'G-4R0F3F4K3P');
+
+</script>
 <h1>Bocheng Cui</h1>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
