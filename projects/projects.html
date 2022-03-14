@@ -10,7 +10,7 @@
     }
 
 </style>
-<!-- project4 -->
+<!-- project5 -->
 <!-- <div class=p1><b>Improving Paxos performance</b>
     <br>[<a href="https://github.com/noahcui">Code</a>]
     <br>
@@ -19,7 +19,7 @@
     <li>Trying to improve Paxos's performance</li>
 </ul> -->
 
-<!-- project3 -->
+<!-- project4 -->
 <div class=p1>
     <b>Fault tolerance sharded K/V storage system</b>
     <br>[<a href="https://github.com/noahcui/6.824">Code</a>]
@@ -27,42 +27,57 @@
 </div>
 
 <ul>
-    <li> In this project, I designed and implemented a fault-tolerant K/V storage system that can serve a big chunk of
-        data
-        with low latency.</li>
-    <li> Work:
-        <ul>
-            <li>Simplified and implemented a Raft protocol.</li>
-            <li>Designed and implemented a fault-tolerant Sharded K/V storage system on the modified Raft.</li>
-        </ul>
+    <li> A fault-tolerant K/V storage system that can serve a big chunk of data with low latency</li>
+    <li>Simplified and implemented a Raft protocol.</li>
+    <li>Designed and implemented sharding algorithm and shard controler. By default, it would split datas evenly on all
+        edges. User can also decided the location for each shard of data as their need.</li>
     </li>
+    <li>Designed and implemented data migrating algorithm. In my design, during the data migration, servers can still
+        safely work and
+        reply to clients.</li>
+    <li>Introduced google map reduce to this system.</li>
 </ul>
 
 
-<!-- project2 -->
+<!-- project3 -->
 <div class=p1>
     <b>Extracting Amplicon Reads from a Whole Shotgun Metagenomic Dataset</b>
     <br>[<a href="https://github.com/noahcui/MCBS913-addiction">Code</a>]
     <br>
 </div>
 <ul>
-    <li>In this project, we designed and implemented a tool for DNA sequencing, and amplicon reads extracting.</li>
-    <li>My part of work:
-        <ul>
-            <li>Designing, building, and maintaining the SQLite database. </li>
-            <li>Creating interfaces and scripts to link different parts of the application.</li>
-            <li> Designing algorithms for sorting and sequencing.</li>
-        </ul>
-    </li>
+    <li>Designed and implemented a tool for DNA sequencing, and amplicon reads extracting.</li>
+    <li>Designing, building, and maintaining the SQLite database.</li>
+    <li>Creating interfaces and scripts to link different parts of the application.</li>
+    <li> Designing algorithms for sorting and sequencing.</li>
 </ul>
 
-<!-- project1 -->
-<div class=p1><b>Distributed MapReduce</b>
+<!-- project2 -->
+<div class=p1><b>Milestone</b>
     <!-- <br>[<a href="https://github.com/noahcui/6.824/tree/master/src/mr">Code</a>] -->
     <br>
 </div>
 <ul>
-    <li>Implemented a Distributed MapReduce model.</li>
+    <li>A Andorid game developed in Java.</li>
+    <li>Users from all over the world can play against each other, or be teamates.</li>
+</ul>
+
+<!-- end -->
+<br>
+
+
+<!-- end -->
+<br>
+
+<!-- project1 -->
+<div class=p1><b>Peer-to-peer chatting App</b>
+    <!-- <br>[<a href="https://github.com/noahcui/6.824/tree/master/src/mr">Code</a>] -->
+    <br>
+</div>
+<ul>
+    <li>Designed and implemented an application that allows users to do peer-to-peer chatting directly.</li>
+    <li>Provides users with a low latency, high transfering speed chatting experience.</li>
+    <li>Protect user’s privacy by never collecting user data.</li>
 </ul>
 
 <!-- end -->
