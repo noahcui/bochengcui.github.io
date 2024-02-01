@@ -21,6 +21,7 @@
     $('#projects').load('projects/projects.html');
     $('#experience').load('experience/experience.html');
     $('#education').load('education/education.html');
+    $('#publications').load('publications/publications.html');
   })
 
 </script>
@@ -34,16 +35,20 @@
   <!-- <div id="news"></div>
   <br>
   <br> -->
-  <!-- immporting Talks -->
-  <div id="talks"></div>
-  <br>
-  <br>
   <!-- importing projects -->
   <div id="projects"></div>
   <br>
   <br>
   <!-- importing experience -->
   <div id="experience"></div>
+  <br>
+  <br>
+   <!-- importing publications -->
+  <div id="publications"></div>
+  <br>
+  <br>
+    <!-- immporting Talks -->
+  <div id="talks"></div>
   <br>
   <br>
   <!-- importing eduction -->
