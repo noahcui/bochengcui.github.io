@@ -39,16 +39,16 @@
   <div id="projects"></div>
   <br>
   <br>
-  <!-- importing experience -->
-  <div id="experience"></div>
-  <br>
-  <br>
    <!-- importing publications -->
   <div id="publications"></div>
   <br>
   <br>
     <!-- immporting Talks -->
   <div id="talks"></div>
+  <br>
+  <br>
+  <!-- importing experience -->
+  <div id="experience"></div>
   <br>
   <br>
   <!-- importing eduction -->
